@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ![alt text](https://github.com/darshan967096/darshan967096/blob/main/fff.png)
--->
+
 
 <h1 align="center">Hi 👋, I'm Darshan Singh</h1>
 <h3 align="center">Techie who knows about Software Developer ,</h3>
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan967096&show_icons=true&locale=en" alt="darshan967096" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan967096&" alt="darshan967096" /></p>
+-->
